@@ -15,6 +15,7 @@ IN1010 - Objektorientert programmering
 
 ## 3. semester:
 AST2000 - Innføring i astrofysikk
+
 FYS1120 - Elektromagnetisme
 
 ## 4. semester
