@@ -12,3 +12,7 @@ skal til å begynne på det første av de større prosjektene.
 
 ## GitHub repo:
 https://github.com/NilsECT/FYS3150
+
+Dere kan også se en beskrivelse av prosjektoppgavene her:
+
+https://anderkve.github.io/FYS3150/book/projects/project1.html
