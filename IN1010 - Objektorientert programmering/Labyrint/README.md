@@ -12,6 +12,7 @@ felt (stier), mens "#" er svarte felt (vegger).
 
 ## Hvordan kjøre koden:
 Terminal> javac *.java
+
 Terminal> java Hovedprogram
 
 Det skal så dukke opp en meny hvor du kan velge en "labyrint-fil". Bla til
